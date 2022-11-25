@@ -1,5 +1,5 @@
 import { fetchMovies } from "./fetch";
-
+let q = '';
 const refs = {
     form: document.querySelector("#search-form"),
     movieGallery: document.querySelector(".galleryMovie"),
