@@ -1,0 +1,12 @@
+.galleryTable {
+  table-layout: auto;
+  border: 2px solid silver;
+  box-shadow: 1px 1px 1px 0px rgba(0, 0, 0, 0.5);
+  width: 400px;
+  margin: 60px auto;
+  padding: 5px;
+  background-color: beige;
+}
+.th {
+  outline: 1px solid tomato;
+}
