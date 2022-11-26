@@ -3,7 +3,7 @@ let q = '';
 const refs = {
     form: document.querySelector("#search-form"),
     movieGallery: document.querySelector(".galleryMovie"),
-    galleryTable: document.querySelector(".galleryTable"),
+    button: document.querySelector("#clearButton")
 }
 
 function createMarkup(data) {
@@ -24,7 +24,7 @@ function onSubmit(e) {
 }
 
 function addMarkup(data) {
-    return refs.galleryTable.innerHTML = createMarkup(data);
+    return refs.movieGallery.innerHTML = createMarkup(data);
 }
 refs.form.addEventListener("submit", onSubmit);
 
