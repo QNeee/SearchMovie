@@ -14,16 +14,17 @@ function createMarkup(data) {
     <td>${Type}</td>
   </tr>`, "");
 }
-function addMarkup(data) {
-    refs.movieGallery.innerHTML = "";
-    return refs.galleryTable.insertAdjacentHTML("beforeend", createMarkup(data));
-}
-refs.form.addEventListener("submit", (e) => {
+function onSubmit(e) {
     e.preventDefault();
     q = e.target.searchQuery.value.trim();
     if (!q) return;
     fetchMovies(q).then(({ data }) => {
         addMarkup(data.Search);
     });
-});
+}
+
+function addMarkup(data) {
+    return refs.galleryTable.innerHTML = createMarkup(data);
+}
+refs.form.addEventListener("submit", onSubmit);
 

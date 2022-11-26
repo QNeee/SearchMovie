@@ -10,3 +10,6 @@
 .th {
   outline: 1px solid tomato;
 }
+.hidden {
+  display: none;
+}
