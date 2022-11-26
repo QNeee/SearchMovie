@@ -33,7 +33,7 @@
 84C:\Users\derla\Documents\GitHub\SearchMovie\node_modules\@parcel\runtime-browser-hmr133138212498149365 1
 107C:\Users\derla\Documents\GitHub\SearchMovie\node_modules\axios\lib\platform\node\classes\URLSearchParams.js133138218706535471 0
 67C:\Users\derla\Documents\GitHub\SearchMovie\node_modules\is-extglob133138212493342226 1
-48C:\Users\derla\Documents\GitHub\SearchMovie\dist133138311980943816 1
+48C:\Users\derla\Documents\GitHub\SearchMovie\dist133138995366257084 1
 129C:\Users\derla\Documents\GitHub\SearchMovie\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV4\files\embed\file2.txt133138212508362054 0
 95C:\Users\derla\Documents\GitHub\SearchMovie\node_modules\@jridgewell\sourcemap-codec\dist\types133138212497949897 1
 113C:\Users\derla\Documents\GitHub\SearchMovie\node_modules\@parcel\package-manager\test\fixtures\empty\package.json133138212506606747 0
@@ -132,7 +132,7 @@
 56C:\Users\derla\Documents\GitHub\SearchMovie\src\fetch.js133138231199318395 0
 74C:\Users\derla\Documents\GitHub\SearchMovie\node_modules\axios\SECURITY.md133138218707971627 0
 74C:\Users\derla\Documents\GitHub\SearchMovie\node_modules\lodash\fp\fill.js133138212776295544 0
-58C:\Users\derla\Documents\GitHub\SearchMovie\src\index.html133138302920078450 0
+58C:\Users\derla\Documents\GitHub\SearchMovie\src\index.html133138994005016887 0
 82C:\Users\derla\Documents\GitHub\SearchMovie\node_modules\lodash\fp\isTypedArray.js133138212778818739 0
 74C:\Users\derla\Documents\GitHub\SearchMovie\node_modules\async\allLimit.js133138212765035603 0
 84C:\Users\derla\Documents\GitHub\SearchMovie\node_modules\lodash\_createCompounder.js133138212771129313 0
@@ -145,7 +145,7 @@
 97C:\Users\derla\Documents\GitHub\SearchMovie\node_modules\dom-serializer\lib\foreignNames.d.ts.map133138212498677954 0
 105C:\Users\derla\Documents\GitHub\SearchMovie\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.mjs133138212497610817 0
 76C:\Users\derla\Documents\GitHub\SearchMovie\node_modules\picocolors\types.ts133138212496493793 0
-56C:\Users\derla\Documents\GitHub\SearchMovie\src\index.js133138311904240898 0
+56C:\Users\derla\Documents\GitHub\SearchMovie\src\index.js133138995363783694 0
 88C:\Users\derla\Documents\GitHub\SearchMovie\node_modules\source-map-js\lib\base64-vlq.js133138212492674009 0
 91C:\Users\derla\Documents\GitHub\SearchMovie\node_modules\caniuse-lite\data\features\json.js133138212518445094 0
 84C:\Users\derla\Documents\GitHub\SearchMovie\node_modules\lodash\_assignMergeValue.js133138212766312184 0
@@ -6410,9 +6410,9 @@
 72C:\Users\derla\Documents\GitHub\SearchMovie\node_modules\.bin\terser.cmd133138212529096596 0
 72C:\Users\derla\Documents\GitHub\SearchMovie\node_modules\.bin\terser.ps1133138212529096596 0
 67C:\Users\derla\Documents\GitHub\SearchMovie\dist\index.77a9bc14.css133138305340581491 0
-66C:\Users\derla\Documents\GitHub\SearchMovie\dist\index.975ef6c8.js133138311980824145 0
-70C:\Users\derla\Documents\GitHub\SearchMovie\dist\index.975ef6c8.js.map133138311980903917 0
-59C:\Users\derla\Documents\GitHub\SearchMovie\dist\index.html133138305340581491 0
+66C:\Users\derla\Documents\GitHub\SearchMovie\dist\index.975ef6c8.js133138995366197255 0
+70C:\Users\derla\Documents\GitHub\SearchMovie\dist\index.975ef6c8.js.map133138995366237152 0
+59C:\Users\derla\Documents\GitHub\SearchMovie\dist\index.html133138994014920397 0
 76C:\Users\derla\Documents\GitHub\SearchMovie\assets\actions-config-step-2.png133106784810000000 0
 67C:\Users\derla\Documents\GitHub\SearchMovie\assets\how-it-works.png133106784810000000 0
 61C:\Users\derla\Documents\GitHub\SearchMovie\assets\status.png133106784810000000 0

@@ -15,7 +15,8 @@ function createMarkup(data) {
   </tr>`, "");
 }
 function addMarkup(data) {
-    refs.galleryTable.insertAdjacentHTML("beforeend", createMarkup(data));
+    refs.movieGallery.innerHTML = "";
+    return refs.galleryTable.insertAdjacentHTML("beforeend", createMarkup(data));
 }
 refs.form.addEventListener("submit", (e) => {
     e.preventDefault();
