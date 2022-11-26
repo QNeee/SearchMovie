@@ -20,7 +20,7 @@ function onSubmit(e) {
     if (!q) return;
     fetchMovies(q).then(({ data }) => {
         if (data.length > 0) {
-            createMarkup(data.Search);
+            addMarkup(data.Search);
         }
     });
 }
