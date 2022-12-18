@@ -8,7 +8,7 @@
       http-equiv="Content-Security-Policy"
       content="upgrade-insecure-requests"
     />
-    <link rel="stylesheet" href="./css/styles.css" />
+    <link rel="stylesheet" href="css/styles.css" />
     <title>Search Movies</title>
   </head>
   <body>
@@ -20,20 +20,9 @@
         autocomplete="off"
         placeholder="Search movies..."
       />
-      <input id="html" type="checkbox" />
-      <label for="html">Отфильтровать по году</label>
       <button type="submit"><span class="material-icons">search</span></button>
     </form>
-    <table class="galleryTable">
-      <tbody>
-        <tr>
-          <th>Название Фильма</th>
-          <th>Год</th>
-          <th>Тип</th>
-        </tr>
-        <tr class="movieGallery"></tr>
-      </tbody>
-    </table>
+    <ul class="galleryMovie"></ul>
 
     <script src="index.js" type="module"></script>
   </body>

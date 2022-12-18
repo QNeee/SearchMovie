@@ -1,4 +1,4 @@
-.galleryTable {
+/* .galleryTable {
   table-layout: auto;
   border: 2px solid silver;
   box-shadow: 1px 1px 1px 0px rgba(0, 0, 0, 0.5);
@@ -12,4 +12,10 @@
 }
 .hidden {
   display: none;
+}
+.bad {
+  text-align: center;
+} */
+.galleryMovie {
+  text-align: center;
 }
